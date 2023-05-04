@@ -1,0 +1,5 @@
+EXPORTS
+    _Z11ModifyArrayPii @1
+    _Z22SortMainMatrixDiagonalPA20_iii @2
+    _Z36GetAverageAndCountOfPositiveElementsPii @3
+    _Z38CreateArrayBySumOfNegativeValueIndexesPA20_iii @4
